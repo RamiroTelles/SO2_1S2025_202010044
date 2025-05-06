@@ -1,5 +1,5 @@
 # Diseno sobre Syscall que sincroniza Archivos De arpetas
-
+##Nada de aqui funciona :D
 ## Librerias clave utilizadas
 
 Se ha hecho uso de inotify para la recopilacion de eventos de creacion, modificacion y eliminacion. Hilos de kernel para la sincronizacion de ambas carpetas, y mutex para evitar condiciones de carrera y problemas de sincronizacion entre cada hilo.
